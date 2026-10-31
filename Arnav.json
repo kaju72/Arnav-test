@@ -1,3 +1,11 @@
 {
-  "name": "ShareChatUser_48291"
+  "dummy_signup": {
+    "enabled": true,
+    "user_name": "ShareChatUser",
+    "phone_number": "919110923456789",
+    "verify_phone": "9110923456789",
+    "gender": "MALE",
+    "lang_auto_select": true,
+    "max_retry": 3
+  }
 }
